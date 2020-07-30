@@ -10,4 +10,4 @@ Feel free in order to add any resources following list.
 
 ## Hackthebox Machines
 
-## Tryhackme Machines
+## Tryhackme Machines or Rooms
