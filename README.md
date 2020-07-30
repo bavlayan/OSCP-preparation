@@ -10,8 +10,8 @@ Feel free in order to add any resources following list.
 
 ## Videos
 
-## Vulnhub Machines
+## Vulnhub Machines Solutions
 
-## Hackthebox Machines
+## Hackthebox Machines Solutions
 
-## Tryhackme Machines or Rooms
+## Tryhackme Machines or Rooms Solutions
