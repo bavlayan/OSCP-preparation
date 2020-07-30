@@ -9,6 +9,9 @@ Feel free in order to add any resources following list.
 * Windows Privilege Escalation for OSCP & Beyon! - Udemy Course | [Link](https://www.udemy.com/course/windows-privilege-escalation/)
 * Web Security Academy - PortSwigger | [Link](https://portswigger.net/web-security)
 
+## Tools
+* AutoRecon | [Link](https://github.com/Tib3rius/AutoRecon)
+
 ## Books
 
 ## Videos
