@@ -1,6 +1,5 @@
 # OSCP Preparation
-This repo contains useful resources to prepare for OSCP. <br />
-Feel free in order to add any resources following list.
+This repo contains useful resources to prepare for OSCP. Also, feel free in order to add any resources following list.
 
 ## Links
 
