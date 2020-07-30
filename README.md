@@ -5,6 +5,7 @@ This repo contains useful resources to prepare for OSCP. Also, feel free in orde
 
 * TJ_Null’s list of Hack The Box and VulnHub OSCP-like VMs | [Link](https://docs.google.com/spreadsheets/u/1/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview#)
 * Linux Privilege Escalation for OSCP & Beyond! - Udemy Course | [Link](https://www.udemy.com/course/linux-privilege-escalation/)
+* Basic Linux Privilege Escalation | [Lint](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
 * Windows Privilege Escalation for OSCP & Beyon! - Udemy Course | [Link](https://www.udemy.com/course/windows-privilege-escalation/)
 * Web Security Academy - PortSwigger | [Link](https://portswigger.net/web-security)
 
