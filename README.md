@@ -13,11 +13,16 @@ Feel free in order to add any resources following list.
 * AutoRecon | [Link](https://github.com/Tib3rius/AutoRecon)
 
 ## Books
+// To do
 
 ## Videos
+// To do
 
 ## Vulnhub Machines Solutions
+// To do
 
 ## Hackthebox Machines Solutions
+// To do
 
 ## Tryhackme Machines or Rooms Solutions
+// To do
