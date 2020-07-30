@@ -9,6 +9,7 @@ This repo contains useful resources to prepare for OSCP. Also, feel free in orde
 * Windows Privilege Escalation for OSCP & Beyon! - Udemy Course | [Link](https://www.udemy.com/course/windows-privilege-escalation/)
 * Web Security Academy - PortSwigger | [Link](https://portswigger.net/web-security)
 * Upgrading Simple Shells to Fully Interactive TTYs | [Link](https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/)
+* Reverse Shell Cheat Sheet | [Link](https://highon.coffee/blog/reverse-shell-cheat-sheet/)
 
 ## Tools
 * AutoRecon | [Link](https://github.com/Tib3rius/AutoRecon)
