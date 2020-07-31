@@ -4,9 +4,7 @@ This repo contains useful resources to prepare for OSCP. Also, feel free in orde
 ## Useful Links
 
 * TJ_Null’s list of Hack The Box and VulnHub OSCP-like VMs | [Link](https://docs.google.com/spreadsheets/u/1/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview#)
-* Linux Privilege Escalation for OSCP & Beyond! - Udemy Course | [Link](https://www.udemy.com/course/linux-privilege-escalation/)
 * Basic Linux Privilege Escalation | [Link](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
-* Windows Privilege Escalation for OSCP & Beyon! - Udemy Course | [Link](https://www.udemy.com/course/windows-privilege-escalation/)
 * Web Security Academy - PortSwigger | [Link](https://portswigger.net/web-security)
 * Upgrading Simple Shells to Fully Interactive TTYs | [Link](https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/)
 * Reverse Shell Cheat Sheet | [Link](https://highon.coffee/blog/reverse-shell-cheat-sheet/)
@@ -18,7 +16,9 @@ This repo contains useful resources to prepare for OSCP. Also, feel free in orde
 // To do
 
 ## Videos
-// To do
+* Windows Privilege Escalation for OSCP & Beyond! - Udemy Course | [Link](https://www.udemy.com/course/windows-privilege-escalation/)
+* Linux Privilege Escalation for OSCP & Beyond! - Udemy Course | [Link](https://www.udemy.com/course/linux-privilege-escalation/)
+* Windows Privilege Escalation for Begginers - The Ceyber Mentor - Udemy Course |[Link](https://www.udemy.com/course/windows-privilege-escalation-for-beginners/?couponCode=6EE78A57049A9213E5F3)
 
 ## Vulnhub Machines Solutions
 // To do
