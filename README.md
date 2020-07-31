@@ -11,6 +11,7 @@ This repo contains useful resources to prepare for OSCP. Also, feel free in orde
 
 ## Tools
 * AutoRecon | [Link](https://github.com/Tib3rius/AutoRecon)
+* Windows Exploit Suggester | [Link](https://github.com/AonCyberLabs/Windows-Exploit-Suggester)
 
 ## Books
 // To do
