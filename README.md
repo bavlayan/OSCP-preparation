@@ -9,6 +9,7 @@ This repo contains useful resources to prepare for OSCP. Also, feel free in orde
 * Upgrading Simple Shells to Fully Interactive TTYs | [Link](https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/)
 * Reverse Shell Cheat Sheet | [Link](https://highon.coffee/blog/reverse-shell-cheat-sheet/)
 * Msfvenom Cheat Sheet | [Link](https://nitesculucian.github.io/2018/07/24/msfvenom-cheat-sheet/)
+* Spawning a TTY Shell | [Link](https://netsec.ws/?p=337)
 
 ## Tools
 * AutoRecon | [Link](https://github.com/Tib3rius/AutoRecon)
