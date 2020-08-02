@@ -30,7 +30,35 @@ This repo contains useful resources to prepare for OSCP. Also, feel free in orde
 ## Hackthebox Machines Solutions
 | Machine      | Write-Up | OS | Status |
 |   :----:    |    :----:   | :----:  |:----: |
-| Bashed      | [Link](http://bavlayan.com/2020/08/01/Write-up-Bashed-Machine-On-Hackthebox/) | Linux | Solved | 
+| Bashed      | [Link](http://bavlayan.com/2020/08/01/Write-up-Bashed-Machine-On-Hackthebox/) | Linux | Solved |
+|Lame| - | Linux | Not Solved |
+|brainfuck| - | Linux | Not Solved |
+|shocker| - | Linux | Not Solved |
+|nibbles| - | Linux | Not Solved |
+|beep| - | Linux | Not Solved |
+|cronos| - | Linux | Not Solved |
+|nineveh| - | Linux | Not Solved |
+|sense| - | Linux | Not Solved |
+|solidstate| - | Linux | Not Solved |
+|node| - | Linux | Not Solved |
+|valentine| - | Linux | Not Solved |
+|poison| - | Linux | Not Solved |
+|sunday| - | Linux | Not Solved |
+|tartarsauce| - | Linux | Not Solved |
+|Irked| - | Linux | Not Solved |
+|Friendzone| - | Linux | Not Solved |
+|Swagshop| - | Linux | Not Solved |
+|Networked| - | Linux | Not Solved |
+|jarvis| - | Linux | Not Solved |
+|Mirai| - | Linux | Not Solved |
+|Popcorn| - | Linux | Not Solved |
+|Haircut| - | Linux | Not Solved |
+|Blocky| - | Linux | Not Solved |
+|Frolic| - | Linux | Not Solved |
+|Postman| - | Linux | Not Solved |
+|Mango| - | Linux | Not Solved |
+|Traverxec| - | Linux | Not Solved |
+|OpenAdmin| - | Linux | Not Solved |
 
 ## Tryhackme Machines or Rooms Solutions
 // To do
