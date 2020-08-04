@@ -15,6 +15,7 @@ This repo contains useful resources to prepare for OSCP. Also, feel free in orde
 * AutoRecon | [Link](https://github.com/Tib3rius/AutoRecon)
 * Windows Exploit Suggester | [Link](https://github.com/AonCyberLabs/Windows-Exploit-Suggester)
 * nmapAutomator | [Link](https://github.com/rkhal101/nmapAutomator)
+* Enum4Linux | [Link](https://github.com/CiscoCXSecurity/enum4linux)
 
 ## Books
 // To do
