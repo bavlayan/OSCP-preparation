@@ -61,5 +61,5 @@ This repo contains useful resources to prepare for OSCP. Also, feel free in orde
 |Traverxec| - | Linux | Not Solved |
 |OpenAdmin| - | Linux | Not Solved |
 
-## Tryhackme Machines or Rooms Solutions
-// To do
+## Tryhackme Machines or Rooms
+* Room - Network Services | Learn about, then enumerate and exploit a variety of network services and misconfigurations. | [Link](https://tryhackme.com/room/networkservices)
