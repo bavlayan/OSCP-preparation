@@ -31,7 +31,7 @@ This repo contains useful resources to prepare for OSCP. Also, feel free in orde
 ## Hackthebox Machines Solutions
 | Machine      | Write-Up | OS | Status |
 |   :----:    |    :----:   | :----:  |:----: |
-| Bashed      | http://bavlayan.com/2020/08/01/Write-up-Bashed-Machine-On-Hackthebox/ | Linux | Solved |
+| Bashed      | http://bavlayan.com/2020/08/01/Write-up-Bashed-Machine-On-Hackthebox/ | Linux | ![#1589F0](Solved) |
 |Lame| - | Linux | Not Solved |
 |brainfuck| - | Linux | Not Solved |
 |shocker| - | Linux | Not Solved |
