@@ -11,6 +11,7 @@ This repo contains useful resources to prepare for OSCP. Also, feel free in orde
 * Msfvenom Cheat Sheet | [Link](https://nitesculucian.github.io/2018/07/24/msfvenom-cheat-sheet/)
 * Spawning a TTY Shell | [Link](https://netsec.ws/?p=337)
 * Payloads All The Things | [Link](https://github.com/swisskyrepo/PayloadsAllTheThings)
+* SQL injection cheat sheet | [Link](https://portswigger.net/web-security/sql-injection/cheat-sheet)
 
 ## Tools
 * AutoRecon | [Link](https://github.com/Tib3rius/AutoRecon)
