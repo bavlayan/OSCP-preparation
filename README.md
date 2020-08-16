@@ -66,3 +66,5 @@ This repo contains useful resources to prepare for OSCP. Also, feel free in orde
 
 ## Tryhackme Machines or Rooms
 * Room - Network Services | Learn about, then enumerate and exploit a variety of network services and misconfigurations. | [Link](https://tryhackme.com/room/networkservices)
+* Buffer Overflow Prep - Practice stack based buffer overflows! | [Link](https://tryhackme.com/room/bufferoverflowprep)
+
