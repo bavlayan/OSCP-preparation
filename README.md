@@ -30,6 +30,7 @@ This repo contains useful resources to prepare for OSCP. Also, feel free in orde
 * Windows Privilege Escalation for OSCP & Beyond! - Udemy Course | [Link](https://www.udemy.com/course/windows-privilege-escalation/)
 * Linux Privilege Escalation for OSCP & Beyond! - Udemy Course | [Link](https://www.udemy.com/course/linux-privilege-escalation/)
 * Windows Privilege Escalation for Begginers - [The Ceyber Mentor](https://twitter.com/thecybermentor) - Udemy Course | [Link](https://www.udemy.com/course/windows-privilege-escalation-for-beginners/?couponCode=6EE78A57049A9213E5F3)
+* Linux Privilege Escalation for Beginners - [The Ceyber Mentor](https://twitter.com/thecybermentor) - Udemy Course | [Link](https://www.udemy.com/course/linux-privilege-escalation-for-beginners/?couponCode=CYBERMENTOR)
 
 ## Vulnhub Machines Solutions
 // To do
