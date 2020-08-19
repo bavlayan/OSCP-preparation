@@ -1,6 +1,9 @@
 # OSCP Preparation
 This repo contains useful resources to prepare for OSCP. Also, feel free in order to add any resources following list.
 
+## Reviews
+* The Ultimate OSCP Preparation Guide | [Link](https://johnjhacking.com/blog/the-oscp-preperation-guide-2020/)
+
 ## Useful Links
 
 * TJ_Null’s list of Hack The Box and VulnHub OSCP-like VMs | [Link](https://docs.google.com/spreadsheets/u/1/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview#)
