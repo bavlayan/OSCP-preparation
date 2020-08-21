@@ -35,7 +35,7 @@ This repo contains useful resources to prepare for OSCP. Also, feel free in orde
 ## Vulnhub Machines Solutions
 | Machine      | Write-Up | OS | Status |
 |   :----:    |    :----:   | :----:  |:----: |
-|Kioptrix| - | Linux | Not Solved |
+|Kioptrix - Level 1| - | Linux | Not Solved |
 
 ## Hackthebox Machines Solutions
 | Machine      | Write-Up | OS | Status |
