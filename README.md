@@ -33,7 +33,9 @@ This repo contains useful resources to prepare for OSCP. Also, feel free in orde
 * Linux Privilege Escalation for Beginners - [The Ceyber Mentor](https://twitter.com/thecybermentor) - Udemy Course | [Link](https://www.udemy.com/course/linux-privilege-escalation-for-beginners/?couponCode=CYBERMENTOR)
 
 ## Vulnhub Machines Solutions
-// To do
+| Machine      | Write-Up | OS | Status |
+|   :----:    |    :----:   | :----:  |:----: |
+|Kioptrix| - | Linux | Not Solved |
 
 ## Hackthebox Machines Solutions
 | Machine      | Write-Up | OS | Status |
