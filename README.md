@@ -15,6 +15,7 @@ This repo contains useful resources to prepare for OSCP. Also, feel free in orde
 * Spawning a TTY Shell | [Link](https://netsec.ws/?p=337)
 * Payloads All The Things | [Link](https://github.com/swisskyrepo/PayloadsAllTheThings)
 * SQL injection cheat sheet | [Link](https://portswigger.net/web-security/sql-injection/cheat-sheet)
+* Priv2Admin for Windows OS | [Link](https://github.com/gtworek/Priv2Admin)
 
 ## Tools
 * AutoRecon | [Link](https://github.com/Tib3rius/AutoRecon)
