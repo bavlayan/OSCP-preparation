@@ -25,6 +25,7 @@ This repo contains useful resources to prepare for OSCP. Also, feel free in orde
 * Enum4Linux | [Link](https://github.com/CiscoCXSecurity/enum4linux)
 * Impacket - psexec.py | [Link](https://github.com/SecureAuthCorp/impacket/blob/master/examples/psexec.py)
 * PowerSploit | [Link](https://github.com/PowerShellMafia/PowerSploit)
+* DirSearch | [Link](https://github.com/maurosoria/dirsearch)
 
 ## Books
 // To do
