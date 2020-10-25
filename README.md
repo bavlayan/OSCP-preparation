@@ -17,6 +17,7 @@ This repo contains useful resources to prepare for OSCP. Also, feel free in orde
 * SQL injection cheat sheet | [Link](https://portswigger.net/web-security/sql-injection/cheat-sheet)
 * Priv2Admin for Windows OS | [Link](https://github.com/gtworek/Priv2Admin)
 * Basic PowerShell for Pentesters | [Link](https://book.hacktricks.xyz/windows/basic-powershell-for-pentesters)
+* Exploiting ShellShock getting a reverse shell | [Link](http://www.fantaghost.com/exploiting-shellshock-getting-reverse-shell)
 
 ## Tools
 * AutoRecon | [Link](https://github.com/Tib3rius/AutoRecon)
