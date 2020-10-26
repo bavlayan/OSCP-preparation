@@ -40,7 +40,6 @@ This repo contains useful resources to prepare for OSCP. Also, feel free in orde
 ## Vulnhub Machines Solutions
 | Machine      | Write-Up | OS | Status |
 |   :----:    |    :----:   | :----:  |:----: |
-|Kioptrix - Level 1| - | Linux | Not Solved |
 
 ## Hackthebox Machines Solutions
 | Machine      | Write-Up | OS | Status |
@@ -48,7 +47,7 @@ This repo contains useful resources to prepare for OSCP. Also, feel free in orde
 | Bashed      | http://bavlayan.com/2020/08/01/Write-up-Bashed-Machine-On-Hackthebox/ | Linux | :white_check_mark: Solved |
 |Lame| http://bavlayan.com/2020/09/06/Write-up-Lame-Machine-on-HackTheBox/ | Linux | :white_check_mark: Solved |
 |brainfuck| - | Linux | Not Solved |
-|shocker| - | Linux | Not Solved |
+|shocker| http://bavlayan.com/2020/10/25/Write-up-Shocker-Machine-on-HackTheBox/ | Linux | :white_check_mark: Solved |
 |nibbles| - | Linux | Not Solved |
 |beep| - | Linux | Not Solved |
 |cronos| - | Linux | Not Solved |
