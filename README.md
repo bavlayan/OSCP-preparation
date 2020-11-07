@@ -48,7 +48,7 @@ This repo contains useful resources to prepare for OSCP. Also, feel free in orde
 |Lame| http://bavlayan.com/2020/09/06/Write-up-Lame-Machine-on-HackTheBox/ | Linux | :white_check_mark: Solved |
 |brainfuck| - | Linux | Not Solved |
 |shocker| http://bavlayan.com/2020/10/25/Write-up-Shocker-Machine-on-HackTheBox/ | Linux | :white_check_mark: Solved |
-|nibbles| - | Linux | Not Solved |
+|nibbles| http://bavlayan.com/2020/10/28/Write-up-Nibbles-Machine-on-HackTheBox/ | Linux | :white_check_mark: Solved |
 |beep| - | Linux | Not Solved |
 |cronos| - | Linux | Not Solved |
 |nineveh| - | Linux | Not Solved |
